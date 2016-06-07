@@ -1,6 +1,7 @@
 package com.reikhadui.omfb;
 
 import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
@@ -17,7 +18,7 @@ public class OhMyFunnyBuckets
     }
 
     @Mod.EventHandler
-    public void init(FMLPostInitializationEvent event)
+    public void init(FMLInitializationEvent event)
     {
 
     }

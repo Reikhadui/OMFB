@@ -1,0 +1,16 @@
+[
+{
+"modid": "omfb",
+"name": "Oh My Funny Buckets",
+"description": "Buckets and buckets of power!",
+"version": "1.0",
+"url": "",
+"updateUrl": "",
+"authorList": ["Reikhadui"],
+"credits": "",
+"logoFile": "",
+"screenshots": [],
+"parent": "",
+"dependencies": []
+}
+]
